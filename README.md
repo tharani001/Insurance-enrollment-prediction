@@ -25,9 +25,9 @@ Directory to store the ipynb file which covers my entire thought process. Kindly
   ```bash
   git clone https://github.com/tharani001/Insurance-enrollment-prediction.git
   ```
-  2. Install the dependencies:
+  2.Install the dependencies:
   ```python
   pip install -r requirements.txt
   ```
-  3. Run the inference.ipynb file for testing
+  3.Run the inference.ipynb file for testing
 
