@@ -3,7 +3,9 @@
 Nowadays, marketing expenditures in the insurance industry are significant, making it essential for companies to optimize marketing strategies and improve effectiveness. Understanding employees' enrollment decisions leads to more targeted marketing plans, better product offerings, and higher adoption rates for voluntary insurance products.
 
 ## **Main Objectives:**
-To develop a machine learning model that predicts whether an employee will opt in to a new voluntary insurance product based on demographic and employment-related data. This will help the business understand key factors influencing enrollment decisions and optimize marketing or product offerings accordingly 
+To develop a machine learning model that predicts whether an employee will opt in to a new voluntary insurance product based on demographic and employment-related data. This will help the business understand key factors influencing enrollment decisions and optimize marketing or product offerings accordingly.
+
+
 This project will enable the company to gain deeper insights into its customer base, ultimately improving decision-making and enhancing customer engagement.
 
 
