@@ -16,7 +16,7 @@ Directory to store processed data.
 ### models/
 Directory to save trained models.
 
-### notebook/
+### notebooks/
 Directory to store the ipynb file which covers my entire thought process. Kindly take a look in to **inference.ipynb** file to gain good understanding.
 
 ### Other files
