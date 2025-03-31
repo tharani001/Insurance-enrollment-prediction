@@ -23,7 +23,7 @@ Directory to store the ipynb file which covers my entire thought process. Kindly
 
   1.Clone the repository:
   ```bash
-  git clone
+  git clone https://github.com/tharani001/Insurance-enrollment-prediction.git
   ```
   
 
